@@ -112,3 +112,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+model-best/config.cfg
+model-best/meta.json
+model-best/ner/cfg
+model-best/ner/model
+model-best/ner/moves
+model-best/tokenizer
+model-best/transformer/cfg
+model-best/transformer/model
+model-best/vocab/key2row
+model-best/vocab/lookups.bin
+model-best/vocab/strings.json
+model-best/vocab/vectors
+model-best/vocab/vectors.cfg
